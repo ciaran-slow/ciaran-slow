@@ -59,7 +59,11 @@ Git · GitHub · Auth0 · Cloudinary
 
 ---
 
-## Selected Project
+## Featured Project
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dnl6b6gaq/image/upload/v1776291443/ReadmeImage_mibsap.png" width="100%">
+</p>
 
 ### HiddenGemz – Local Discovery Platform
 
