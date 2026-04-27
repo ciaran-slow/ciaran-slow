@@ -82,6 +82,16 @@ The project was developed collaboratively during the Dev Academy Aotearoa progra
 **Tech Stack**  
 React · TypeScript · Node.js · Express · PostgreSQL · Tailwind CSS
 
+**Contributors**
+
+The team behind HiddenGemz:
+
+-   **Ciaran S** - [GitHub Profile](https://github.com/ciaran-slow)
+-   **Johnny C** - [GitHub Profile](https://github.com/johnny-cassin)
+-   **Jay H** - [GitHub Profile](https://github.com/JayHuston-Dev)
+-   **Phoebe H** - [GitHub Profile](https://github.com/PhoebeHuPing)
+-   **Melia G** - [GitHub Profile](https://github.com/melia-gratsounas)
+
 **Live Application**  
 https://hidden-gemz.onrender.com/
 
