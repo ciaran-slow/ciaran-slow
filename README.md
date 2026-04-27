@@ -4,6 +4,9 @@ Software Developer
 Wellington, New Zealand  
 JavaScript · React · Node.js · Full-Stack Web Development
 
+LinkedIn  
+https://www.linkedin.com/in/ciaran-slow-1a740a87/
+
 ---
 
 ## About
@@ -114,8 +117,3 @@ https://github.com/Raumati-2026/hidden-gemz
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ciaran-slow&layout=compact)
 
 ---
-
-## Contact
-
-LinkedIn  
-https://www.linkedin.com/in/ciaran-slow-1a740a87/
