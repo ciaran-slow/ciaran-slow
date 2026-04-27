@@ -111,8 +111,6 @@ https://github.com/Raumati-2026/hidden-gemz
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ciaran-slow&show_icons=true&theme=default)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ciaran-slow&layout=compact)
 
 ---
