@@ -8,9 +8,35 @@ JavaScript · React · Node.js · Full-Stack Web Development
 
 ## About
 
-I am a software developer with a background in web development, design, and user experience. I recently completed the Dev Academy Aotearoa full-time software development programme, where I focused on building full-stack JavaScript applications in collaborative team environments.
+I'm a software developer with a strong background in user experience
+and design. I bring this background to everything I build in the software
+development space. Whether I'm working on the front end or the back
+end, I'm thinking really closely about the user and the experience that
+they're having.
 
-I enjoy working on systems that are practical, well-structured, and focused on user experience. My current focus is continuing to develop my full-stack capability and contribute to production-style applications.
+I completed the Dev Academy Aotearoa full stack software development
+programme, which spans fifteen weeks. It's really intensive with a lot of
+hands on work, constantly focusing on projects, collaborating with
+people, and lots of learning on both the soft skills side and the
+technical skills side. We built over nine projects during my time there
+and I continue to work on some of these now. We covered things like
+front end and back end development, integrating APIs, test driven
+development, agile, CI/CD, and a number of AI tools that help us be
+great software developers. There was also a huge focus on soft skills:
+conflict management and prevention, giving and receiving feedback,
+and all the skills needed to work in a high performance team.
+
+Prior to doing software development full time, I spent a number of
+years teaching at Yoobee. I mentored students and taught them the ins
+and outs of front end development, particularly around UI and UX. I
+loved that experience. Being able to sit down with someone and see
+them have a breakthrough, doing something they couldn't do before,
+I've really valued that.
+
+I'm looking to apply my mix of skills across software development, UI,
+UX, teaching, mentoring, and collaboration to my next role in the
+software development space. I'm open to working in both the front and
+back end - please get in touch.
 
 ---
 
