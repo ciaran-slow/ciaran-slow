@@ -101,6 +101,8 @@ https://hidden-gemz.onrender.com/
 **Repository**  
 https://github.com/Raumati-2026/hidden-gemz
 
+---
+
 <p align="center">
   <img src="https://res.cloudinary.com/dnl6b6gaq/image/upload/v1777335487/imove_ydswu0.jpg" width="100%">
 </p>
@@ -111,8 +113,6 @@ iMove GymMonkey is a full-stack workout tracking application designed to help us
 
 The project was built as a CRUD-focused application to strengthen full-stack development skills using React and MongoDB.
 
----
-
 **Key Features**
 - Create, view, update, and delete workout sessions
 - Clean and responsive user interface built with React
@@ -121,18 +121,12 @@ The project was built as a CRUD-focused application to strengthen full-stack dev
 - Image support via Cloudinary for workout visuals
 - Date handling and formatting for session tracking
 
----
-
 **Tech Stack**  
 React · Vite · CSS · Node.js · Express · MongoDB · Cloudinary · date-fns
-
----
 
 **Overview**
 
 iMove GymMonkey is designed to provide a straightforward fitness tracking experience. Users can log workout sessions, edit or remove entries as needed, and maintain an organised view of their training history. The application demonstrates core full-stack principles, including CRUD operations, API design, and database integration, while maintaining a lightweight and user-friendly interface.
-
----
 
 **Repository**  
 https://github.com/ciaran-slow/iMove
