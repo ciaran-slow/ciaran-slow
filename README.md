@@ -62,7 +62,7 @@ Git · GitHub · Auth0 · Cloudinary
 
 ---
 
-## Featured Project
+## Featured Projects
 
 <p align="center">
   <img src="https://res.cloudinary.com/dnl6b6gaq/image/upload/v1776291443/ReadmeImage_mibsap.png" width="100%">
