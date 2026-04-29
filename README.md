@@ -133,6 +133,42 @@ https://github.com/ciaran-slow/iMove
 
 ---
 
+<p align="center">
+  <img src="https://res.cloudinary.com/dnl6b6gaq/image/upload/v1777422337/Screenshot_2026-04-29_at_12.24.42_PM_nfryib.png" width="100%">
+</p>
+
+### WatGig – Event Discovery & Management Platform
+
+WatGig is a full-stack event discovery and management platform designed to help users find, save, and organise live music events. The application combines a visually rich interface with practical tools such as filtering, event management, and a personalised calendar for tracking upcoming shows.
+
+The project was built to explore modern full-stack architecture using React and Node.js, while focusing on user experience, event discovery, and scalable frontend structure.
+
+**Key Features**
+- Discover live music events through curated and filterable listings
+- Filter events by category such as Featured, This Week, and This Month
+- Genre-based filtering for quick discovery of preferred music styles
+- Personal event calendar for saving and organising upcoming shows
+- Interactive maps powered by Leaflet to display event locations
+- Secure user authentication using Auth0
+- Create, edit, and delete events with form validation
+- Profile customisation including roles, bios, and profile images
+- Image uploads and hosting via Cloudinary
+- Responsive design with mobile navigation and smooth page transitions
+
+**Tech Stack**  
+React · TypeScript · Vite · Tailwind CSS · TanStack Query · React Router · Node.js · Express · Knex.js · SQLite3 · Auth0 · Cloudinary · date-fns · Leaflet · Vitest
+
+**Overview**
+
+WatGig is designed to help users easily discover and manage live music events within their local scene. The platform allows users to browse events, apply filters by time or genre, and save shows to a personal calendar for quick reference. Event organisers and venues can manage their listings through dedicated forms, while secure authentication ensures a controlled user experience.
+
+The project demonstrates full-stack development principles including API-driven architecture, authentication integration, database migrations, and modern React patterns. With a strong emphasis on usability and visual presentation, WatGig aims to provide a streamlined and engaging event discovery experience.
+
+**Repository**  
+https://github.com/ciaran-slow/watgig
+
+---
+
 ## Current Focus
 
 - Building full-stack JavaScript applications
