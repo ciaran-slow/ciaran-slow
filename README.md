@@ -96,7 +96,7 @@ The team behind HiddenGemz:
 -   **Melia G** - [GitHub Profile](https://github.com/melia-gratsounas)
 
 **Live Application**  
-https://hidden-gemz.onrender.com/
+https://hidden-gemz-nz.onrender.com/
 
 **Repository**  
 https://github.com/Raumati-2026/hidden-gemz
