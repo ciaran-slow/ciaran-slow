@@ -102,7 +102,8 @@ The team behind HiddenGemz:
 https://hidden-gemz-nz.onrender.com/
 
 **Repository**  
-https://github.com/Raumati-2026/hidden-gemz
+https://github.com/ciaran-slow/HiddenGemz  
+*A copy of the team's original repository, which sits in the course organisation's private account.*
 
 ---
 
@@ -178,11 +179,3 @@ https://github.com/ciaran-slow/watgig
 - Improving backend architecture and API design
 - Strengthening testing and development workflows
 - Continuing to develop production-ready project experience
-
----
-
-## GitHub Activity
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ciaran-slow&layout=compact)
-
----
